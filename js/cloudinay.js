@@ -1,6 +1,6 @@
 'use strict'
 
-const CLOUD_NAME = 'daxpl0xw3'     
+const CLOUD_NAME = 'dlrjbu2pv'     
 const UPLOAD_PRESET = 'teste_imagem' 
 
 export async function uploadParaCloudinary(file) {
